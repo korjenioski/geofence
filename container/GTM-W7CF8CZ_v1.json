@@ -1,0 +1,51 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2022-01-26 17:14:06",
+    "containerVersion": {
+        "path": "accounts/6005812020/containers/58050054/versions/1",
+        "accountId": "6005812020",
+        "containerId": "58050054",
+        "containerVersionId": "1",
+        "name": "Empty Container",
+        "container": {
+            "path": "accounts/6005812020/containers/58050054",
+            "accountId": "6005812020",
+            "containerId": "58050054",
+            "name": "com.upstart13.Geofence",
+            "publicId": "GTM-W7CF8CZ",
+            "usageContext": [
+                "IOS_SDK_5"
+            ],
+            "fingerprint": "1643217139575",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6005812020/containers/58050054/workspaces?apiLink=container"
+        },
+        "builtInVariable": [
+            {
+                "accountId": "6005812020",
+                "containerId": "58050054",
+                "type": "APP_ID",
+                "name": "App ID"
+            },
+            {
+                "accountId": "6005812020",
+                "containerId": "58050054",
+                "type": "APP_NAME",
+                "name": "App Name"
+            },
+            {
+                "accountId": "6005812020",
+                "containerId": "58050054",
+                "type": "APP_VERSION_CODE",
+                "name": "App Version Code"
+            },
+            {
+                "accountId": "6005812020",
+                "containerId": "58050054",
+                "type": "EVENT_NAME",
+                "name": "Event Name"
+            }
+        ],
+        "fingerprint": "1643217139579",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/6005812020/containers/58050054/versions/1?apiLink=version"
+    }
+}
